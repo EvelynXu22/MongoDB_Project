@@ -1,4 +1,4 @@
-# DatabseFinalProject
+#  Project: MongoDB based paper search system
 Each paper has the following information that need to be stored:
 - Title: a string. A paper can only have one title, and you can assume it is unique.
 - Authors: a paper can have many authors. Each author should have the following information
